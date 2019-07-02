@@ -90,9 +90,9 @@ see [here](https://docs.hazelcast.org/docs/3.12/manual/html-single/index.html#ho
 
    ```
    Jul 02, 2019 12:00:44 PM com.hazelcast.instance.Node
-INFO: [localhost]:5702 [dev] [3.12.1] Hazelcast Shutdown is completed in 1020 ms.
-Jul 02, 2019 12:00:44 PM com.hazelcast.core.LifecycleService
-INFO: [localhost]:5702 [dev] [3.12.1] [localhost]:5702 is SHUTDOWN
+   INFO: [localhost]:5702 [dev] [3.12.1] Hazelcast Shutdown is completed in 1020 ms.
+   Jul 02, 2019 12:00:44 PM com.hazelcast.core.LifecycleService
+   INFO: [localhost]:5702 [dev] [3.12.1] [localhost]:5702 is SHUTDOWN
    ```
 
 10. Start the cluster again using the same script. Verify by tailing the logs
